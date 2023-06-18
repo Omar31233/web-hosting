@@ -1,0 +1,656 @@
+* {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        
+        }
+        body{
+
+ }
+        nav ul {
+            list-style: none;
+        }
+
+        ul,
+        ol {
+            list-style: none;
+        }
+
+        .nav>li {
+            float:  left;
+        }
+
+        nav>ul>li {
+            float:  left;
+        }
+
+        .nav  {
+            text-align: center;
+            background-color: #942017;
+            color: white    ;
+            text-decoration: none;
+            padding: 2% 0%;
+            display: ;
+            align-content:  center  ;
+        }
+
+        .nav li a:hover {
+            background-color: pink;
+        }
+
+        .nav li ul {
+            display: none;
+            position: absolute;
+            min-width: 100px;
+        }
+
+        .nav li:hover>ul {
+            display: ;
+        }
+
+        .nav li ul li {
+            position: relative;
+        }
+
+        .nav li ul li ul {
+            right: 150%;
+            top: 10px;
+        }
+        .MENU{
+            background-color:   yellow  ;
+            align-content:center      ;
+        }
+        .contenedor{
+            padding: 10px 80px;
+
+           }  
+           .drogas{
+           padding: 60px 20px;
+           font-size:   20px;
+           font-family:     'Time Roman';
+           justify-content: center;
+           } 
+            .navss{
+                padding: 10px   700px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+       
+       .foo{
+        text-align:     center;
+        font-size:  30px;
+        background-color:   #be0d0d;
+       }
+       .imagen{
+        padding:    30px 100px;
+        width: 1100px ;
+            height: 130px;
+       }
+       .imagens{
+            visibility: hidden;
+            display: none;
+        }
+        .con{
+padding:    30px 20px;
+            text-align: center;
+        }
+        .head{
+          visibility: hidden;
+          display: none ;
+        }
+        .video{
+          text-align: center;
+
+        }
+        @media(max-width:1300px){
+        nav ul {
+            list-style: none;
+        }
+
+        ul,
+        ol {
+            list-style: none;
+        }
+
+        .nav>li {
+            float:  left;
+        }
+
+        nav>ul>li {
+            float:  left;
+        }
+
+        .nav li a {
+            text-align: center;
+            background-color: #942017;
+            color: white    ;
+            text-decoration: none;
+            padding: 5px 20px;
+            display: ;
+            align-content:  center  ;
+        }
+
+        .nav li a:hover {
+            background-color: pink;
+        }
+
+        .nav li ul {
+            display: none;
+            position: absolute;
+            min-width: 100px;
+        }
+
+        .nav li:hover>ul {
+            display: ;
+        }
+
+        .nav li ul li {
+            position: relative;
+        }
+
+        .nav li ul li ul {
+            right: 150%;
+            top: 10px;
+        }
+        .MENU{
+            background-color:   yellow  ;
+            align-content:center      ;
+        }
+        .contenedor{
+            padding: 10px 80px;
+
+           }  
+           .drogas{
+           padding: 60px 20px;
+           font-size:   20px;
+           font-family:     'Time Roman';
+           justify-content: center;
+           } 
+            .navss{
+                padding: 10px   700px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+       
+       .foo{
+        text-align:     center;
+        font-size:  30px;
+        background-color:   #be0d0d;
+       }
+       .imagen{
+        padding:    30px 80px;
+        width: 1100px ;
+            height: 130px;
+       }
+       .imagens{
+            visibility: hidden;
+            display: none;
+        }
+        .con{text-align: center;
+        }
+        .head{
+          visibility: hidden;
+          display: none ;
+        }
+        .video{
+          text-align: center;
+
+        }
+      }
+        @media(max-width:1200px){
+          .head{
+          visibility: hidden;
+          display: none;
+        }
+        .imagen{
+            padding: 25px 50px;
+            width: 1000px ;
+            height: 110px;
+        }
+        .contenedor{
+            padding: 1px 50px;
+           
+        }
+
+.drogas{
+           padding: 40px 1px;
+           font-size:   18px;
+           font-family:     'Time Roman';
+            justify-content: center;
+           } 
+            .navss{
+                padding: 20px   25px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+       
+       .foo{
+        text-align:     center;
+        font-size:  20px;
+        background-color:   #be0d0d;
+       }
+       .nav li a {
+            text-align: center;
+            background-color:  #942017;
+            color: white    ;
+            text-decoration: none;
+            padding: 0px 15px;
+            display: ;
+            align-content:  center  ;
+        }
+        .imagens{
+            visibility: hidden;
+            display: none;
+        }
+        @media(max-width:1100px){
+        .imagen{
+            padding: 20px 45px;
+            width: 900px ;
+            height: 100px;
+        }
+        .head{
+          visibility: hidden;
+          display: none;
+        }
+        .contenedor{
+            padding: 1px 50px;
+           
+        }
+
+.drogas{
+           padding: 40px 1px;
+           font-size:   18px;
+           font-family:     'Time Roman';
+            justify-content: center;
+           } 
+            .navss{
+                padding: 20px   25px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+       
+       .foo{
+        text-align:     center;
+        font-size:  20px;
+        background-color:   #be0d0d;
+       }
+       .nav li a {
+            text-align: center;
+            background-color:  #942017;
+            color: white    ;
+            text-decoration: none;
+            padding: 0px 10px;
+            display: ;
+            align-content:  center  ;
+        }
+        .imagens{
+            visibility: hidden;
+            display: none;
+        }
+       @media(max-width:1000px){
+        .head{
+          visibility: visible;
+          display: flex;
+          }
+        .imagen{
+            padding: 5px 40px;
+            width: 800px ;
+            height: 100px;
+        }
+        .nav{
+          visibility: hidden;
+          display: none;
+        }
+        .contenedor{
+            padding: 1px 50px;
+           
+        }
+
+.drogas{
+           padding: 10px 1px;
+           font-size:   18px;
+           font-family:     'Time Roman';
+            justify-content: center;
+           } 
+            .navss{
+                padding: 20px   25px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+       
+       .foo{
+        text-align:     center;
+        font-size:  20px;
+        background-color:   #be0d0d;
+       }
+       .nav li a {
+            text-align: center;
+            background-color: #dcd045;
+            color: black    ;
+            text-decoration: none;
+            padding: 0px 5px;
+            display: ;
+            align-content:  center  ;
+        }
+        .imagens{
+            visibility: hidden;
+            display: none;
+        }
+@media(max-width:900px){
+        .imagen{
+            padding: 15px 35px;
+            width: 700px ;
+            height: 100px;
+        }
+        .contenedor{
+            padding: 1px 40px;
+            
+        }
+        
+.drogas{
+           padding: 10px 1px;
+           font-size:   17px;
+           font-family:     'Time Roman';
+           justify-content: center;
+           } 
+            .navss{
+                padding: 20px   25px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+       
+       .foo{
+        text-align:     center;
+        font-size:  20px;
+        background-color:   #be0d0d;
+       }
+       .nav li a {
+            text-align: center;
+            background-color: #dcd045;
+            color: black    ;
+            text-decoration: none;
+            padding: 0px 5px;
+            display: ;
+            align-content:  center  ;
+        }
+        .imagens{
+            visibility: hidden;
+            display: none;
+        }
+@media(max-width:800px){
+        .imagen{
+            padding: 35px 30px;
+            width: 600px ;
+            height: 80px;
+        }
+        .contenedor{
+            padding: 1px 35px;
+            
+        }
+
+.drogas{
+           padding: 10px 1px;
+           font-size:   17px;
+           font-family:     'Time Roman';
+           justify-content: center;
+           } 
+            .navss{
+                padding: 20px   25px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+       
+       .foo{
+        text-align:     center;
+        font-size:  20px;
+        background-color:   #be0d0d;
+       }
+       .nav li a {
+            text-align: center;
+            background-color: #dcd045;
+            color: black    ;
+            text-decoration: none;
+            padding: 0px 5px;
+            display: ;
+            align-content:  center  ;
+        }
+        .imagens{
+            visibility: hidden;
+            display: none;
+        }
+       @media(max-width:700px){
+        .imagen{
+            padding: 35px 30px;
+            width: 520px ;
+            height: 80px;
+        }
+        .contenedor{
+            padding: 1px 35px;
+            
+        }
+
+.drogas{
+           padding: 10px 1px;
+           font-size:   17px;
+           font-family:     'Time Roman';
+           justify-content: center;
+           } 
+            .navss{
+                padding: 20px   25px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+
+       .foo{
+        text-align:     center;
+        font-size:  20px;
+        background-color:   #be0d0d;
+       }
+       .nav li a {
+            text-align: center;
+            background-color: #dcd045;
+            color: black    ;
+            text-decoration: none;
+            padding: 0px 5px;
+            display: ;
+            align-content:  center  ;
+        }
+        @media(max-width:600px){
+        .imagen{
+            padding: 1px 40px;
+            width: 400px ;
+            height: 60px;
+        }
+        .imagens{
+            visibility: hidden;
+            display: none;
+        }
+        .contenedor{
+            padding: 1px 20px;
+            
+        }
+
+.drogas{
+           padding: 10px 1px;
+           font-size:   17px;
+           font-family:     'Time Roman';
+           justify-content: center;
+           } 
+            .navss{
+                padding: 20px   25px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+       
+       .foo{
+        text-align:     center;
+        font-size:  20px;
+        background-color:   #be0d0d;
+       }
+       .nav li a {
+            text-align: center;
+            background-color: #dcd045;
+            color: black    ;
+            text-decoration: none;
+            padding: 0px 5px;
+            display: ;
+            align-content:  center  ;
+        }
+@media(max-width:500px){
+        .imagen{
+            
+        }
+        .fisico{
+            visibility: hidden;
+            display: none;
+        }
+        .sicologico{
+            visibility: hidden;
+            display: none;
+        }
+        .imagens{
+            visibility: visible;
+            padding: 5px 15px;
+            width: 370px ;
+            height: 70px;
+        }
+        .contenedor{
+            padding: 1px 10px;
+            
+        }
+
+.drogas{
+           padding: 10px 1px;
+           font-size:   17px;
+           font-family:     'Time Roman';
+           justify-content: center;
+           } 
+            .navss{
+                padding: 20px   25px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+       
+       .foo{
+        text-align:     center;
+        font-size:  20px;
+        background-color:   #be0d0d;
+       }
+       .nav li a {
+            text-align: center;
+            background-color: #dcd045;
+            color: black    ;
+            text-decoration: none;
+            padding: 0px 5px;
+            display: ;
+            align-content:  center  ;
+        }
+        @media(max-width:400px){
+        .imagen{
+            display: none;
+            visibility: hidden;
+            padding: 5px 15px;
+            width: 250px ;
+            height: 40px;
+        }
+        .imagens{
+            visibility: visible;
+            padding: 5px 15px;
+            width: 275px ;
+            height: 60px;
+        }
+        .contenedor{
+            padding: 1px 10px;
+            
+        }
+
+.drogas{
+           padding: 40px 15px;
+           font-size:   17px;
+           font-family:     'Time Roman';
+           justify-content: center;
+           } 
+            .navss{
+                padding: 20px   25px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+       
+       .foo{
+        text-align:     center;
+        font-size:  20px;
+        background-color:   #be0d0d;
+       }
+       .nav li a {
+            text-align: center;
+            background-color: #dcd045;
+            color: black    ;
+            text-decoration: none;
+            padding: 0px 5px;
+            display: ;
+            align-content:  center  ;
+        }
+         @media(max-width:300px){
+        .imagen{
+            
+            padding: 5px 15px;
+            width: 150px ;
+            height: 40px;
+        }
+        .imagens{
+            display: none;
+            visibility: hidden;
+            padding: 5px 15px;
+            width: 200px ;
+            height: 60px;
+        }
+        .contenedor{
+            padding: 1px 10px;
+            justify-content: center;
+           text-align: justify;
+           text-align: center;
+           align-content: justify;
+            
+        }
+
+.drogas{
+           padding: 40px 15px;
+           font-size:   17px;
+           font-family:     'Time Roman';
+           justify-content: center;
+           align-content: justify;
+           text-align: center;
+           } 
+            .navss{
+                padding: 20px   25px;
+            }  
+            .truc{
+                background-color:   #ef6d6d;
+            }
+       
+       .foo{
+        text-align:     center;
+        font-size:  20px;
+        background-color:   #be0d0d;
+       }
+       .nav li a {
+            text-align: center;
+            background-color: #dcd045;
+            color: black    ;
+            text-decoration: none;
+            padding: 0px 5px;
+            display: ;
+            align-content:  center  ;
+        }
